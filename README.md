@@ -12,3 +12,7 @@ Estou começando o meu repositório.
 vou continuar alterando o meu código
 
 vamos lá ver o que acontece agora. 
+
+
+# Inserindo outras informações 
+
