@@ -9,4 +9,6 @@ Estou começando o meu repositório.
 
 ### Iniciando git
 
-vou continuar altrerando o meu código
+vou continuar alterando o meu código
+
+vamos lá ver o que acontece agora. 
