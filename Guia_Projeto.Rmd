@@ -29,4 +29,6 @@ Descreve algo relacionado ao projeto
 
 # \large Metodologia 
 
+## \normalsize Subtítulo Metodologia 
+
 
