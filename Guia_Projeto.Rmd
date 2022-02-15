@@ -1,0 +1,32 @@
+---
+title: "GuiaProjeto"
+author: "ACS"
+date: "`r Sys.Date()`"
+geometry: margin = 1.5cm
+output: 
+  pdf_document:
+    toc: yes
+    toc_depth: 4
+    number_sections: true
+ 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# \large Título Projeto  
+
+Descreve o que vai ser o projeto  
+
+
+
+## \normalsize Subtítulo Projeto  
+
+Descreve algo relacionado ao projeto  
+
+
+
+# \large Metodologia 
+
+
