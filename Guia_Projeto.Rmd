@@ -31,4 +31,8 @@ Descreve algo relacionado ao projeto
 
 ## \normalsize Subtítulo Metodologia 
 
+Criando um objeto **a** 
+```{r}
+a<- sample(1:10) * sqrt(3)
+```
 

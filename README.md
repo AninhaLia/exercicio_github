@@ -16,7 +16,7 @@ Vamos lá ver o que acontece agora.
 
 ## Inserindo outras informações 
 
-Muito bacana esse GitHub!
+Muito bacana esse GitHub!  
 
 
 
